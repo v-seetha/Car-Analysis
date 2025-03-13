@@ -11,7 +11,9 @@ The Cars Data Analysis project was initiated to explore and understand various a
 - **How does the distribution of car types vary across different market segments?**
 
 This analysis helps both car buyers and sellers gain a clearer picture of market dynamics, providing actionable insights for decision-making.
-![Uploading Car Data Analysis.gif…]()
+
+![Car Data Analysis](https://github.com/user-attachments/assets/d14f8db3-e4e5-4ee4-8c8b-009ad633a01a)
+
 
 ---
 
